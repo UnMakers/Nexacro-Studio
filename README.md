@@ -1,1 +1,1 @@
-# Nexacro-Studio
+# NexacroStudio
